@@ -119,35 +119,6 @@
 
 <br>
 
-<h2 align="center">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    width="28px"
-    alt="GitHub"
-  >
-  Actividad en GitHub
-</h2>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://ghchart.xqsit94.in/dark:58a6ff/JhamirJO"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://ghchart.xqsit94.in/light:0969da/JhamirJO"
-    />
-    <img
-      width="95%"
-      src="https://ghchart.xqsit94.in/JhamirJO"
-      alt="Actividad de GitHub"
-    />
-  </picture>
-</div>
-
-<br>
-
 <p align="center">
   <i>Aprendiendo, desarrollando y mejorando constantemente.</i>
 </p>
